@@ -33,18 +33,8 @@ Building modern, fast and scalable web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mani-Yadegari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Yadegari&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mani-Yadegari&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mani-Yadegari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mani-Yadegari&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 ---
