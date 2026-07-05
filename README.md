@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 
 <p align="center">
-Full Stack Web Developer from Iran
+Full Stack Web Developer
 </p>
 
 <p align="center">
