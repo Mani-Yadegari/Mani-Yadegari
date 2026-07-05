@@ -17,7 +17,7 @@ I build modern, fast and scalable web applications.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,tailwind,git" />
 </p>
 
 ---
