@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mani-Yadegari/Mani-Yadegari/main/Banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Mani-Yadegari/Mani-Yadegari/main/Banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mani</h1>
+<h1 align="center">
+Hi 👋 I'm Mani
+</h1>
 
 <p align="center">
 Full Stack Web Developer
 </p>
 
 <p align="center">
-I build modern, fast and scalable web applications.
+Building modern, fast and scalable web applications.
+</p>
+
+<p align="center">
+<a href="https://your-portfolio.com">🌐 Portfolio</a> •
+<a href="mailto:maniyadegari8478@gmail.com">📧 Email</a> •
+<a href="https://t.me/Reol96">💬 Telegram</a>
 </p>
 
 ---
@@ -17,15 +25,40 @@ I build modern, fast and scalable web applications.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,tailwind,git" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://your-portfolio.com">Portfolio</a> •
-  <a href="mailto:maniyadegari8478@gmail.com">Email</a> •
-  <a href="https://t.me/Reol96">Telegram</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mani-Yadegari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Yadegari&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mani-Yadegari&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+⭐ Personal Portfolio
+
+⭐ Dashboard UI
+
+⭐ E-commerce
+
+⭐ REST API
+
+---
+
+<p align="center">
+Thanks for visiting ❤️
 </p>
