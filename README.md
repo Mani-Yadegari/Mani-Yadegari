@@ -39,18 +39,6 @@ Building modern, fast and scalable web applications.
 
 ---
 
-## 💼 Featured Projects
-
-⭐ Personal Portfolio
-
-⭐ Dashboard UI
-
-⭐ E-commerce
-
-⭐ REST API
-
----
-
 <p align="center">
 Thanks for visiting ❤️
 </p>
