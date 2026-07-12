@@ -15,7 +15,7 @@ Building modern, fast and scalable web applications.
 </p>
 
 <p align="center">
-<a href="https://your-portfolio.com">🌐 Portfolio</a> •
+<a href="https://maniydport.netlify.app">🌐 Portfolio</a> •
 <a href="mailto:maniyadegari8478@gmail.com">📧 Email</a> •
 <a href="https://t.me/Reol96">💬 Telegram</a>
 </p>
