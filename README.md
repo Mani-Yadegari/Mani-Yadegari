@@ -25,7 +25,7 @@ Building modern, fast and scalable web applications.
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,nestjs,postgresql,prisma,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,nestjs,postgresql,prisma,mongodb,tailwind,git" />
 </p>
 
 ---
